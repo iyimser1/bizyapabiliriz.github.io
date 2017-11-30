@@ -1,8 +1,10 @@
 # bizyapabiliriz.github.io
-<!DOCTYPE html>
-<html>
-<body>
-<h1>Hello World</h1>
-<p>I'm hosted with GitHub Pages.</p>
-</body>
-</html>
+<meta charset="utf-8">
+Selamınaleyküm<br>
+Hayırlı Günler<br>
+
+Çalışan Kazanır,  Elması Kızarır<br><br><br>
+
+Biz yapabiliriz<br>
+Zoru başarırız<br>
+İmkansız zaman alır....!!!!!!!
